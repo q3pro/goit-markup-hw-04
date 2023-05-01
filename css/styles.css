@@ -196,13 +196,6 @@ body {
   margin-bottom: 8px;
 }
 
-/* .svg {
-  width: 64px;
-  height: 64px;
-  left: 100px;
-  top: 24px;
-} */
-
 .about-top-text {
   font-weight: 500;
   font-size: 20px;
@@ -290,6 +283,12 @@ body {
   justify-content: center;
   fill: #F4F4FD;
 }
+
+.team-soc-link:hover {
+  background-color: #404BBF;
+  fill: #F4F4FD;
+}
+
 .team-soc-icon {
 }
 
