@@ -182,26 +182,33 @@ body {
   background-color: var(--btncolor-home-page);
 }
 
+.about-icon {
+  width: 264px;
+  height: 112px;
+  background: #f4f4fd;
+  border-radius: 4px;
+  padding: 24px 100px;
+}
+
+.list-icon {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 8px;
+}
+
+.svg {
+  width: 64px;
+  height: 64px;
+  left: 100px;
+  top: 24px;
+}
+
 .about-top-text {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--about-top-text-color);
-  margin-bottom: 8px;
-}
-
-.list-icon {
-  display: flex;
-}
-
-.about-top-text::before {
-  content: "";
-  width: 264px;
-  height: 112px;
-  display: inline-block;
-  background: #f4f4fd;
-  border-radius: 4px;
   margin-bottom: 8px;
 }
 
@@ -356,7 +363,6 @@ body {
 .footer-text {
   color: #f4f4fd;
   width: 264px;
-  /* height: 72px; */
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
