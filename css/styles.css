@@ -359,6 +359,24 @@ body {
   color: #434455;
 }
 
+/**=================customers=================*/
+
+.customers {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.customers-list {
+  display: flex;
+  gap: 24px;
+}
+.customers-item {
+  box-sizing: border-box;
+  border: 1px solid #8E8F99;
+border-radius: 4px;
+width: 168px;
+height: 88px;
+}
+
 /**=================FOOTER=================*/
 
 .footer-logo {
