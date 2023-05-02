@@ -277,16 +277,16 @@ body {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   display: flex;
   align-items: center;
   justify-content: center;
-  fill: #F4F4FD;
+  fill: #f4f4fd;
 }
 
 .team-soc-link:hover {
-  background-color: #404BBF;
-  fill: #F4F4FD;
+  background-color: #404bbf;
+  fill: #f4f4fd;
 }
 
 .team-soc-icon {
@@ -362,19 +362,19 @@ body {
 /**=================customers=================*/
 
 .customers {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 .customers-list {
   display: flex;
   gap: 24px;
+  /* align-items:center; */
 }
 .customers-item {
   box-sizing: border-box;
-  border: 1px solid #8E8F99;
-border-radius: 4px;
-width: 168px;
-height: 88px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  width: 168px;
+  height: 88px;
 }
 
 /**=================FOOTER=================*/
