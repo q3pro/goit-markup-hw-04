@@ -81,7 +81,6 @@ body {
 .head-list {
   display: flex;
   gap: 40px;
-  
 }
 
 .navigation {
@@ -431,6 +430,12 @@ body {
 
   letter-spacing: 0.02em;
   /* margin-top: 17px; */
+}
+
+.footer-soc-list {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
 }
 
 .footer-container {
