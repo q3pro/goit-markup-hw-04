@@ -396,17 +396,16 @@ body {
 }
 
 .customers-item:hover {
-  border: 1px solid #404BBF;
+  border: 1px solid #404bbf;
 }
 
 .customers-item:hover > .svg {
-  fill: #404BBF;
+  fill: #404bbf;
 }
 
 .svg {
-  fill: #8E8F99;
+  fill: #8e8f99;
 }
-
 
 /**=================FOOTER=================*/
 
@@ -420,7 +419,6 @@ body {
   color: var(--logo-color);
   display: inline-block;
   margin-bottom: 16px;
-  
 }
 
 .span-logo-footer {
@@ -430,7 +428,6 @@ body {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
-
 }
 
 .footer-text {
@@ -457,11 +454,11 @@ body {
 }
 
 .span-footer {
-  font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #FFFFFF;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
