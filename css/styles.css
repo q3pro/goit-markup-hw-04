@@ -395,6 +395,19 @@ body {
   padding: 16px 32px;
 }
 
+.customers-item:hover {
+  border: 1px solid #404BBF;
+}
+
+.customers-item:hover > .svg {
+  fill: #404BBF;
+}
+
+.svg {
+  fill: #8E8F99;
+}
+
+
 /**=================FOOTER=================*/
 
 .footer-logo {
