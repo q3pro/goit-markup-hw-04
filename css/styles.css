@@ -46,7 +46,6 @@ button {
 
 body {
   font-family: "Roboto", sans-serif;
-  /* font-weight: 500; */
   color: #434455;
   background-color: var(--body-background-color);
 }
@@ -69,9 +68,7 @@ body {
 
 /**=================HEDAR=================*/
 .header-box {
-  /* box-sizing: border-box; */
-  border-bottom: 1px solid #e7e9fc;
-  /* padding: 24px 0; */
+  border-bottom: 1px solid #e7e9fc; 
 }
 
 .header-container {
@@ -178,10 +175,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  /* cursor: pointer; */
   padding: 16px 32px;
-  /* border: none;
-  border-radius: 4px; */
   min-width: 169px;
   display: block;
   margin: 0 auto;
