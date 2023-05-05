@@ -426,6 +426,7 @@ body {
 }
 
 .footer-logo-div {
+  margin-right: 120px;
 }
 
 .span-logo-footer {
@@ -444,7 +445,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* margin-right: 120px; */
 }
 
 .footer-soc-list {
@@ -456,7 +456,6 @@ body {
 .footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-soc-media {
@@ -470,4 +469,21 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.footer-soc-link {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #4d5ae5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  fill: #f4f4fd;
+}
+
+.footer-soc-link:hover {
+  background-color: #31d0aa;
+  fill: #f4f4fd;
 }
