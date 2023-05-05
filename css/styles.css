@@ -188,21 +188,28 @@ body {
 }
 
 .icon-container {
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px; 
+  width: 264px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
 }
 
-.about-icon {
+/* .about-icon {
   width: 264px;
   height: 112px;
   background: #f4f4fd;
   border-radius: 4px;
   padding: 24px 100px;
-}
+} */
 
 .list-icon {
   display: flex;
   gap: 24px;
-  margin-bottom: 8px;
+  
 }
 
 .about-top-text {
