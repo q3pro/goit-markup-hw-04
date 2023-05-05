@@ -483,7 +483,7 @@ body {
   fill: #f4f4fd;
 }
 
-.footer-soc-linkis:is(:hover, :focus) {
+.footer-soc-link:is(:hover, :focus) {
   background-color: #31d0aa;
   fill: #f4f4fd;
 }
