@@ -395,7 +395,7 @@ body {
 }
 .customers-item {
   /* box-sizing: border-box; */
-  width: ((100% - 120px) / 6); 
+  width: 168px;
   height: 88px;
   padding: 16px 32px;
 }
