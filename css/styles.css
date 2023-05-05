@@ -422,6 +422,10 @@ body {
   color: var(--logo-color);
   display: inline-block;
   margin-bottom: 16px;
+  
+}
+
+.footer-logo-div {
 }
 
 .span-logo-footer {
@@ -440,7 +444,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-right: 120px;
+  /* margin-right: 120px; */
 }
 
 .footer-soc-list {
@@ -451,12 +455,14 @@ body {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
+  margin-right: 120px;
 }
 
 .footer-soc-media {
 }
 
-.span-footer {
+.soc-text-footer {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
