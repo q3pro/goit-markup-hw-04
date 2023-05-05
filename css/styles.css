@@ -419,7 +419,8 @@ body {
 }
 
 .svg {
-  fill: #8e8f99;
+  /* fill: #8e8f99; */
+  fill: currentColor;
 }
 
 /**=================FOOTER=================*/
