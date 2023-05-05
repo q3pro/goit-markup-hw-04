@@ -187,6 +187,10 @@ body {
   background-color: var(--btncolor-home-page);
 }
 
+.icon-container {
+  
+}
+
 .about-icon {
   width: 264px;
   height: 112px;
